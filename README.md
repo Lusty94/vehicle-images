@@ -12,12 +12,13 @@
 
 ```lua
 vehicles = {
-  [1] = { -- ensure the index number matches your sequence
-    model = 'asbo', -- spawn name of vehicle
-    label = 'Asbo', -- label for menu
-    description = 'Small, nimble and reliable!', -- description for menu
-    price = 500, -- price to rent vehicle per minute
-    image = 'asbo.png', -- Make sure this matches the filename here
+  [1] = { 
+      model = 'asbo', -- vehicle spawn name
+      label = 'Asbo', -- label for menu
+      description = 'Small, nimble and reliable!', -- description for menu
+      price = 100, -- price to rent vehicle per minute
+      image = 'asbo.png', -- vehicle image name on github link
+      requiredTier = 0, -- 0 = no membership required
   },
 }
 ```
