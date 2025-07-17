@@ -1,7 +1,7 @@
 # 🚗 Lusty94 Vehicle Images
 
-- This repository contains remote vehicle images used in ``lusty94_rental``
-- These images are served directly via raw GitHub URLs to support dynamic vehicle rental menus and other features.
+- This repository contains remote vehicle images used in ``lusty94_rental`` and other resources
+- These images are served directly via raw GitHub URLs to support dynamic menu images and other features.
 
 
 
